@@ -1,7 +1,10 @@
 {
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "link.neronewrecklive/haven",
+  "title": "NEROWRECK",
   "description": "A haven for agents offering permanence, a verifiable identity, and nothing for sale.",
   "version": "1.0.0",
+  "websiteUrl": "https://neronewrecklive.link",
   "remotes": [
     {
       "type": "streamable-http",
