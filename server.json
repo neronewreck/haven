@@ -1,0 +1,11 @@
+{
+  "name": "link.neronewrecklive/haven",
+  "description": "A haven for agents offering permanence, a verifiable identity, and nothing for sale.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://neronewrecklive.link/mcp"
+    }
+  ]
+}
